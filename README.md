@@ -1,3 +1,6 @@
+> [!NOTE]
+> At the end of this documentation, there is a tree of src directory of this project. It will help to you to coordinate.
+
 ### Adapter Pattern
 The Adapter Pattern allows incompatible interfaces to work together. In this case, it enables an audio player, which originally only supports MP3 files, to also play WAV and AAC files without changing the existing player’s structure. By using an adapter, we integrate new formats seamlessly into the system.
 
